@@ -1,0 +1,11 @@
+electronic,Fast Life,Jackson and His Computer Band,5:08
+electronic,Stairway to Heaven,Jana,4:05
+electronic,Silikon,Modeselektor,3:46
+rock,School's Out,Alice Cooper,3:30
+rock,My Reply,The Ataris,4:14
+rock,Burning Bridges,Bon Jovi,2:44
+rock,Escher's Staircase,Lana Lane,6:06
+alternative,Psycho Killer,Talking Heads,4:20
+alternative,So Far So Good,Thornley,3:22
+alternative,Nothing At All,Wired All Wrong,3:18
+alternative,Chocolate,The 1975,3:47
